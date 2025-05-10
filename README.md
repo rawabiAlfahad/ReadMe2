@@ -2,7 +2,6 @@
 ## JavaScript button syncs two pages and changes color button on two pages:
 
 page one :
-
 ```
 <!-- Page 1 -->
 <!DOCTYPE html>
